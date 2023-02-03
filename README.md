@@ -1,2 +1,2 @@
 # 01-challenge-bootcamp
-first challenge
+first challenge that consists of refactoring old code
